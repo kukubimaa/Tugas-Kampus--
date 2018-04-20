@@ -1,6 +1,6 @@
-Nama ="sufi aryo nugroho"
+Nama ="rachmad dani bimaputra"
 print "\tNama :",Nama
-Nim = 311710097
+Nim = 311710845
 print "\tNim :",Nim
 NilaiTugas = 95
 print "\tNilai Tugas :",NilaiTugas
