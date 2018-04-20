@@ -32,5 +32,5 @@ elif akhir <= 0 :
 print "================================================================="
 print "| Nama | NIM | Tugas | UTS | UAS | Akhir "
 print "================================================================="
-print "| Sufi Aryo Nugroho | 311710097 | 80 | 80 | 80 | 80 " 
+print "| rachmad dani bimaputra | 311710845 | 80 | 80 | 80 | 80 " 
 
